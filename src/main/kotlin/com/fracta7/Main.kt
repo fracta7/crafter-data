@@ -15,9 +15,9 @@ fun main() {
     val recipes = recipesInit()
     val recipeTypes = recipeTypesInit()
 
-    val itemsFile = "data/items.bin"
-    val recipesFile = "data/recipes.bin"
-    val recipeTypesFile = "data/recipe_types.bin"
+    val itemsFile = "items.bin"
+    val recipesFile = "recipes.bin"
+    val recipeTypesFile = "recipe_types.bin"
 
     writeItemsToBinaryFile(items, itemsFile)
     writeRecipesToBinaryFile(recipes, recipesFile)

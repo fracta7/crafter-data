@@ -10,10 +10,10 @@ java -jar crafter-data.jar
 
 # Building
 
-You can either use **IntelliJ IDEA** or use command 
+It is recommended to use **Gradle** for building the project. For building:
 
 ```
-gradlew run
+gradle build
 ```
 
 # Developing
