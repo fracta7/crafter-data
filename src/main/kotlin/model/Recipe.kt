@@ -2,6 +2,7 @@ package com.fracta7.model
 
 typealias ItemID = String
 typealias RecipeID = String
+
 /**
  * Data class to represent recipes
  * @property result result of recipe
