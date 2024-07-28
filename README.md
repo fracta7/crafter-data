@@ -5,7 +5,7 @@
 Download the latest release and run using command-line. Java version shouldn't matter much, Java 8+ should do (*untested*): 
 
 ```
-java -jar crafter-data.jar
+java -jar CrafterData-1.0.jar
 ```
 
 # Building
