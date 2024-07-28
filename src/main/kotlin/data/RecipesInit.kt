@@ -3,7 +3,6 @@ package com.fracta7.data
 import com.fracta7.model.Recipe
 /**
  * Initiates all recipes
- * @param itemRegistry ItemRegistry instance to get all items.
  * @return List of Recipes.
  */
 fun recipesInit(): List<Recipe> {
